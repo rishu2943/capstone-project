@@ -1,0 +1,21 @@
+,car_brand,car_model,year,km_driven,fuel,seller_type,transmission,owner,selling_price
+3538,Tata,Nexon 1.5,2019,25000,Diesel,Individual,Manual,First Owner,800000.0
+2919,Maruti,SX4 ZDI,2012,70000,Diesel,Individual,Manual,Second Owner,310000.0
+1702,Maruti,800 DUO,2009,50000,LPG,Individual,Manual,Second Owner,85000.0
+257,Tata,Sumo GX,2006,100000,Diesel,Individual,Manual,Second Owner,115999.0
+1643,Tata,Sumo Victa,2009,120000,Diesel,Individual,Manual,First Owner,130000.0
+848,Hyundai,i20 Asta,2009,72000,Diesel,Individual,Manual,Second Owner,250000.0
+2561,Maruti,Vitara Brezza,2019,20000,Diesel,Individual,Manual,First Owner,890000.0
+1872,Mahindra,Thar DI,2018,5000,Diesel,Individual,Manual,First Owner,515000.0
+759,Honda,Amaze EX,2014,56541,Diesel,Dealer,Manual,First Owner,409999.0
+561,Hyundai,Grand i10,2017,10510,Petrol,Dealer,Automatic,First Owner,520000.0
+929,Hyundai,i10 Magna,2012,49824,Petrol,Dealer,Manual,First Owner,229999.0
+973,Maruti,Alto K10,2017,30000,Petrol,Individual,Manual,First Owner,320000.0
+1986,Tata,Manza Aura,2010,50000,Petrol,Individual,Manual,First Owner,200000.0
+3788,Honda,Amaze E,2015,80000,Petrol,Individual,Manual,Second Owner,360000.0
+2493,Maruti,Alto Green,2010,80251,CNG,Dealer,Manual,Second Owner,88000.0
+3867,Hyundai,i20 Sportz,2016,48220,Petrol,Dealer,Manual,First Owner,660000.0
+1786,Mahindra,Scorpio VLS,2009,110000,Diesel,Individual,Manual,Second Owner,409999.0
+2849,Tata,Nano Std,2009,50000,Petrol,Individual,Manual,other,35000.0
+1770,Renault,Captur 1.5,2018,40000,Diesel,Individual,Manual,First Owner,1000000.0
+2183,Renault,Pulse RxL,2015,61585,Diesel,Trustmark Dealer,Manual,First Owner,390000.0
